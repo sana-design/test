@@ -7,15 +7,15 @@ function selectChkBox(frm) {
             sum += 1;
         }
         if (sum <= 6) {
-            location.href="https://www.franklinplanner.co.kr/main/index.php"
+            location.href="../result/noplan.html"
         } else if(sum <= 9){
-            location.href="https://www.franklinplanner.co.kr/goods/goods_list.php?cateCd=016"
+            location.href="../result/ambulance.html"
         }
         else if(sum <= 12){
-            location.href="https://www.franklinplanner.co.kr/goods/goods_list.php?cateCd=006"
+            location.href="../result/work.html"
         }
         else if(sum <= 15){
-            location.href="https://www.franklinplanner.co.kr/main/html.php?htmid=service/offline.html"
+            location.href="../result/controller.html"
         }
 
     }

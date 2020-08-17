@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>timetest</title>
+    <title>체크리스트</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/time.css">
     <script src="js/time.js"></script>
@@ -13,9 +13,9 @@
 
 <section>
     <div id="checklist">
-    <h1>- CHECK LIST -</h1>
-    <form method="get" action="form-action.html">
-    <div id="testbox">
+        <form method="get" action="form-action.html">
+            <div id="testbox">
+            <h1>- CHECK LIST -</h1>
 
         <label for="item1" class="list-item-wrapper">
             <input id="item1" type="checkbox" name="checkbox" value="" class="list-item-hidden-input">
@@ -77,9 +77,11 @@
             <input id="item15" type="checkbox" name="checkbox" value="" class="list-item-hidden-input">
             <div class="list-item">계획하는 일은 반드시 성취하는 편이다.</div>
         </label> <br>
-
+        <label class="list-item-wrapper">
         <input type="button" name="button" value="확인" onClick="selectChkBox(this.form)" id="check">
         <input type='reset' value="다시선택" id="reset">
+        </label>
+
     </div>
     </form>
     </div>
