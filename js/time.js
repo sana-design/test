@@ -7,15 +7,15 @@ function selectChkBox(frm) {
             sum += 1;
         }
         if (sum <= 6) {
-            location.href="../result/noplan.html"
+            location.href="result/noplan.html"
         } else if(sum <= 9){
-            location.href="../result/ambulance.html"
+            location.href="result/ambulance.html"
         }
         else if(sum <= 12){
-            location.href="../result/work.html"
+            location.href="result/work.html"
         }
         else if(sum <= 15){
-            location.href="../result/controller.html"
+            location.href="result/controller.html"
         }
 
     }
