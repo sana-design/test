@@ -53,6 +53,8 @@ a {
 input {
     padding: 0;
     border: 1px solid #999;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
 
 }
 
