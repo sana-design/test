@@ -1,5 +1,5 @@
 body{
-    background: #fbf2f3;
+    background: #f2f5fb;
 }
 
 h1{
@@ -38,8 +38,8 @@ section{
     padding:10px 10px 10px 10px;
     font-size: 15px;
     color: #fff;
-    background-color: #ff6173;
-    border:1px solid #ff2e44;
+    background-color: #6183ff;
+    border:1px solid #092487;
     border-radius:10px;
     cursor:pointer;
     margin-top: 10px;

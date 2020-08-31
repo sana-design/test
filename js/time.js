@@ -6,10 +6,12 @@ function selectChkBox(frm) {
         if( frm.checkbox[i].checked == true ){
             sum += 1;
         }
-        if (sum <= 6) {
+        if (sum <= 5) {
             location.href="result/noplan.html"
-        } else if(sum <= 9){
+        } else if(sum <= 7){
             location.href="result/ambulance.html"
+        } else if(sum <= 9){
+            location.href="result/obsess.html"
         }
         else if(sum <= 12){
             location.href="result/work.html"
