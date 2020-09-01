@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09875004-616a-4e2f-b387-ecf321e11d4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/result/obsess.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/result.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/time.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/time.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/ambulance.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ambulance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/check.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/check.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/controller.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/controller.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/noplan.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/noplan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/time.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/time.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/work.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/work.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/time.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/result/controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/noplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/result/noplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/obsess.html" beforeDir="false" afterPath="$PROJECT_DIR$/result/obsess.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,8 @@
       <workItem from="1598493997820" duration="62000" />
       <workItem from="1598494465575" duration="345000" />
       <workItem from="1598494830220" duration="4000" />
-      <workItem from="1598853061459" duration="3912000" />
+      <workItem from="1598853061459" duration="4514000" />
+      <workItem from="1598926065702" duration="1540000" />
     </task>
     <servers />
   </component>

@@ -99,6 +99,16 @@ input:focus {
 
 }
 
+.chk1{
+    background-color: #ff7691;
+    border:1px solid #ec0d5a;
+}
+
+.chk2{
+    background-color: #33c6ad;
+    border:1px solid #12715d;
+}
+
 
 /*----------------------------------반응형----------------------------*/
 
